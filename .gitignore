@@ -1,0 +1,5 @@
+# AoC asks that puzzle inputs are not shared publicly
+inputs/
+out/
+*.jar
+__pycache__/
